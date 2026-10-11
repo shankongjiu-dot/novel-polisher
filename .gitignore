@@ -1,0 +1,11 @@
+# ============================================================
+# 项目无关的内部工具 / 缓存（不属于本项目，禁止提交）
+# Internal tooling & agent/IDE caches — not part of the project
+# ============================================================
+.codeartsdoer/
+.codegraph/
+.workbuddy/
+.merkle-snapshot.json
+
+# 注意：node_modules / dist / *.local 等由 novel-polisher/.gitignore 管理
+# Node & build artifacts are handled by novel-polisher/.gitignore
