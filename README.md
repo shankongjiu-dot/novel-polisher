@@ -144,7 +144,11 @@ novel-polisher/
 
 ## ⚠️ 免责声明
 
-本项目为**本地自用工具**，不内置任何小说下载 / 爬取功能。请仅对你**拥有合法权利**的文本进行处理，尊重原作者版权，遵守所在地法律法规。因使用本工具产生的任何版权或法律问题，由使用者自行承担。
+- **本工具仅供学习与技术研究使用**，不得用于任何商业用途，亦不得用于侵犯他人合法权益（包括版权）的场景。
+- 本项目为**本地自用工具**，不内置任何小说下载 / 爬取功能。请仅对你**拥有合法权利**的文本进行处理，尊重原作者版权，遵守所在地法律法规。
+- 因使用本工具产生的任何版权、法律或经济问题，均由使用者自行承担，作者与贡献者不承担任何责任。
+
+> **Disclaimer (English):** This tool is provided **for learning and technical research purposes only**. It must not be used for any commercial purpose or in any way that infringes the legitimate rights (including copyright) of others. This is a local-only utility with no built-in downloading or scraping. You are solely responsible for any copyright, legal, or financial consequences arising from its use; the author and contributors accept no liability.
 
 ---
 
