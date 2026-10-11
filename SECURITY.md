@@ -14,7 +14,7 @@
 如果你发现安全漏洞，请**不要**通过公开 Issue 披露。请使用以下方式私密报告：
 
 - 在仓库的 **Security → Report a vulnerability**（GitHub Security Advisory）提交
-- 或发送邮件至维护者 GitHub 账号 [`@sxbgwx`](https://github.com/sxbgwx)
+- 或发送邮件至维护者 GitHub 账号 [`@shankongjiu-dot`](https://github.com/shankongjiu-dot)
 
 我们会尽快确认问题、评估影响并协调修复与披露时间。
 
